@@ -1,0 +1,6 @@
+.container {
+    display: flex;
+}
+.player-container {
+    width: 80%;
+}
