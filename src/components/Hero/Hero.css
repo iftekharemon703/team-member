@@ -1,11 +1,4 @@
 .hero {
-    background-color: lightgray;
-    padding: 50px;
-    text-align: center;
-}
-.hero h2 {
-    color: red;
-}
-.hero p {
-    color: green;
+    background-color:lightgray;
+    padding: 100px;
 }

@@ -1,6 +1,13 @@
-.container {
+.team-container {
     display: flex;
+    overflow: hidden;
 }
 .player-container {
-    width: 80%;
+    width: 78%;
+}
+.cart {
+    width: 22%;
+    overflow: hidden;
+    background-color:blanchedalmond;
+    padding-left: 10px;
 }

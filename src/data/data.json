@@ -3,111 +3,127 @@
     "name": "Mashrafi Bin Mortaza",
     "email": "Mash@berkeley.edu",
     "phone": "368-487-9614",
-    "sallery": 100000,
+    "salary": 100000,
+    "district": "Narail",
     "img": "https://resources.pulse.icc-cricket.com/players/champions-trophy-2017/210/391.png"
   },  {  
     "id": 2,
     "name": "Sakib Al Hasan",
     "email": "sakib@csmonitor.com",
     "phone": "217-320-1009",
-    "sallery": 155000,
+    "salary": 155000,
+    "district": "Magura",
     "img": "https://i.pinimg.com/originals/2f/e3/6c/2fe36ce8d8a3aece290503f95ebbe735.png"
   }, {
     "id": 3,
     "name": "Mushfiqur Rahim",
     "email": "Mushfiqur@springer.com",
     "phone": "861-105-0665",
-    "sallery": 2050000,
+    "salary": 2050000,
+    "district": "Bogra",
     "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx"
   }, {
     "id": 4,
     "name": "Tamim Iqbal",
     "email": "Tamim@wired.com",
     "phone": "889-495-6617",
-    "sallery": 200000,
+    "salary": 200000,
+    "district": " Chittagong",
     "img": "https://freepikpsd.com/wp-content/uploads/2020/01/tamim-iqbal-PNG-Images.png"
   }, {
     "id": 5,
     "name": "Mustafizur Rahman",
     "email": "Mustafizur@gmail.com",
     "phone": "266-480-0231",
-    "sallery": 870000,
+    "salary": 870000,
+    "district": "Satkhira",
     "img": "https://resources.pulse.icc-cricket.com/players/284/1594.png"
   },  {
     "id": 6,
     "name": "Mahmudullah Riyad",
     "email": "mahmudullah@fotki.com",
     "phone": "514-892-1787",
-    "sallery": 660000,
+    "salary": 660000,
+    "district": "Dhaka",
     "img": "https://dailysportsupdates.com/wp-content/uploads/2019/04/Mahmudullah.png"
   }, {
     "id": 7,
     "name": "sumiya Sarkar",
     "email": "sumiya@altervista.org",
     "phone": "850-856-7217",
-    "sallery": 640000,
+    "salary": 640000,
+    "district": "Khulna",
     "img": "https://images.newsonfloor.com/newsonfloorImage/cricket/player/5570/resize/5570.png"
   }, {
     "id": 8,
     "name": "Liton Das",
     "email": "liton@oakley.com",
     "phone": "174-771-4238",
-    "sallery": 580000,
+    "salary": 580000,
+    "district": "Dinajpur",
     "img": "https://resources.pulse.icc-cricket.com/players/210/1596.png"
   }, {
     "id": 9,
     "name": "Rubel Hossain",
     "email": "rubel@domainmarket.com",
     "phone": "423-742-7724",
-    "sallery": 550000,
+    "salary": 550000,
+    "district": "Bagerhat",
     "img": "https://dailysportsupdates.com/wp-content/uploads/2019/04/Rubel-Hossain-206x300.png"
   }, {
     "id": 10,
     "name": "Sabbir Rahman",
-    "email": "sabbir@acquirethisname.com",
+    "email": "sabbir@gmail.com",
     "phone": "387-244-1989",
-    "sallery": 500000,
+    "salary": 500000,
+    "district": "Rajshahi",
     "img": "https://resources.pulse.icc-cricket.com/players/284/1734.png"
   }, {
     "id": 11,
     "name": "Taskin Ahmed",
     "email": "taskin@storify.com",
     "phone": "756-254-2456",
-    "sallery": 45000,
+    "salary": 45000,
+    "district": "Dhaka",
     "img": "https://haircutsz.com/wp-content/gallery/taskin-ahmed/Taskin-Ahmed-Hairstyles3.png"
   }, {
     "id": 12, 
     "name": "Mehedi Hasan Miraz",
     "email": "mehedi@alexa.com",
     "phone": "848-498-7340",
-    "sallery": 40000,
+    "salary": 40000,
+    "district": "Khulna",
     "img": "https://i.cdn.newsbytesapp.com/sports/players/profile/mehedi-hasan-miraz-1.png"
   }, {
     "id": 13,
     "name": "Saif Uddin",
     "email": "saif@nhs.uk",
     "phone": "562-990-0195",
-    "sallery": 36000,
+    "salary": 36000,
+    "district": "Feni",
     "img": "https://resources.pulse.icc-cricket.com/players/284/2915.png"
   }, {
     "id": 14,
     "name": "Mosaddek Hossen",
     "email": "mosaddek@java.com",
     "phone": "943-185-6040",
-    "sallery": 30000,
+    "salary": 30000,
+    "district": "Mymenshing",
     "img": "https://dailysportsupdates.com/wp-content/uploads/2019/04/Mosaddek-Hossain.png"
   }, {
     "id": 15,
     "name": "Mominul Hoque",
     "email": "Mominul@state.tx.us",
     "phone": "824-319-6763",
-    "sallery": 20000,
+    "salary": 20000,
+    "district": "Cox's bazar",
     "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mominul%20Haque.ashx"
   }, {
     "id": 16,
     "name": "Mohammod Mithun",
     "email": "Mithun@state.tx.us",
     "phone": "824-319-6763",
-    "sallery": 20000,
+    "salary": 20000,
+    "district": "Sylhet",
     "img": "https://storage.googleapis.com/cricketimages/Players/HB.png"
   }]

@@ -1,20 +1,30 @@
 import React, { useState } from 'react';
 import data from '../../data/data.json';
+import Cart from '../Cart/Cart';
 import Player from '../Player/Player';
 import './Team.css';
 
 const Team = () => {
     const [player , setPlayer] = useState(data);
-    console.log(data);
+    const [cart , setCart] = useState([]);
+
+    const handleAddPlayer = (player) => {
+      const newCart = [...cart , player];
+      setCart(newCart);
+    }
+
     return (
-        <div className="container">
+        <div className="team-container">
             <div className="player-container">
               {
-                data.map(player => <Player player={player}></Player>)
+                data.map(player => <Player
+                  handleAddPlayer = {handleAddPlayer}
+                   player={player}
+                   ></Player>)
               }
             </div>
             <div className="cart">
-              <h3>Cart</h3>
+              <Cart cart={cart}></Cart>
             </div>
         </div>
     );
